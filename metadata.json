@@ -1,0 +1,6 @@
+{
+  "name": "COD Management System",
+  "description": "Delivery Hub Cash-On-Delivery management portal with daily Excel storage, real-time analytics, rider tracking, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
